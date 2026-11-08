@@ -6,4 +6,12 @@ Notebook soczewki_w_mikrofluidyce.nb składa się z trzech modułów, pozwalają
 ## Symulacja soczewki cienkiej:   
 
 
-<img width="2045" height="1127" alt="image" src="https://github.com/user-attachments/assets/af6bee93-c647-49b0-9ccf-9535613dd79a" />
+<img width="2045" height="1127" alt="image" src="https://github.com/user-attachments/assets/af6bee93-c647-49b0-9ccf-9535613dd79a" />   
+
+## Symulacja soczewki grubej:   
+
+<img width="2183" height="1017" alt="image" src="https://github.com/user-attachments/assets/d6e69fbe-8775-4a9b-b4b9-5380476315f9" />
+
+## Optymalizacja profilu strumienia światła wpadającego do światłowodu:   
+
+<img width="1552" height="788" alt="image" src="https://github.com/user-attachments/assets/aa982f60-d018-4636-8d08-01aadaf97225" />

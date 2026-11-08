@@ -3,7 +3,7 @@ Notebook soczewki_w_mikrofluidyce.nb składa się z trzech modułów, pozwalają
 ## Wyznaczanie promienia krzywizny soczewki grubej dla zadanej ogniskowej:   
 <img width="552" height="284" alt="image" src="https://github.com/user-attachments/assets/27052fd5-4ca9-4ae7-9ec4-b326266e20ef" />   
 
-##Symulacja soczewki cienkiej:   
+## Symulacja soczewki cienkiej:   
 
 
 <img width="2045" height="1127" alt="image" src="https://github.com/user-attachments/assets/af6bee93-c647-49b0-9ccf-9535613dd79a" />
